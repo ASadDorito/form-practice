@@ -1,0 +1,28 @@
+html, 
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+#bgimage {
+    height:100%;
+    width:40%;
+    float:left;
+}
+
+#signup-text, 
+#create-account{
+    height:35%;
+    width:60%;
+    float:right;
+    border:1px black;
+}
+
+#login-area {
+    height:30%;
+    width:60%;
+    float:right;
+    border:1px black;
+}
